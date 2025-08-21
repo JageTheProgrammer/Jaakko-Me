@@ -56,8 +56,8 @@ A simple blog platform with authentication and markdown support.
 
 ## 🌐 Connect With Me
 
-- **TikTok:** [Your TikTok Username/Link]
-- **YouTube:** [Your YouTube Channel/Link]
+- **TikTok:** [https://tiktok.com/@jaakkohub]
+- **YouTube:** [https://youtube.com/@jaakogt]
 - **Instagram:** [Your Instagram Handle/Link]
 
 ---
