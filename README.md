@@ -38,7 +38,7 @@ I'm a student and passionate web developer with experience in several programmin
 
 ## 🚩 Project Showcases
 
-### 🌐 [Portfolio Website](https://your-portfolio-link.com)
+### 🌐 [Portfolio Website]([https://your-portfolio-link.com](https://jaakkoweb.vercel.app/))
 A personal portfolio website to showcase my projects, skills, and contact info.  
 **Tech used:** HTML, CSS, JavaScript, Node.js
 
