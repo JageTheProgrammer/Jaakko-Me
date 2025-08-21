@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JageTheProgrammer!
+# 👋 Hi, I'm Jaakko Maatiala!
 
 ## 🚀 About Me
 I'm a student and passionate web developer with experience in several programming languages and frameworks. I love building cool projects, learning new technologies, and sharing my journey on social media.
